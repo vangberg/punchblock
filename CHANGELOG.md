@@ -1,4 +1,5 @@
 # [develop](https://github.com/adhearsion/punchblock)
+  * Change: Remove support for FreeSWITCH translator on Inbound EventSocket
 
 # [v2.1.1](https://github.com/adhearsion/punchblock/compare/v2.1.0...v2.1.1) - [2013-12-19](https://rubygems.org/gems/punchblock/versions/2.1.1)
   * Bugfix: Allow sending string SSML docs via Rayo

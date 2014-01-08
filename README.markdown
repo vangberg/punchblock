@@ -20,7 +20,6 @@ The best available usage documentation available for Punchblock is by example, i
 
 * Rayo
 * Asterisk (AMI & AsyncAGI)
-* FreeSWITCH (Inbound Event Socket)
 
 ## Links:
 * [Source](https://github.com/adhearsion/punchblock)
